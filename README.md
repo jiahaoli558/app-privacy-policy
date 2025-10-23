@@ -1,4 +1,69 @@
-# 隐私政策 (Privacy Policy)
+[English](#privacy-policy) | [简体中文](#隐私政策-简体中文) | [日本語](#プライバシーポリシー-日本語) | [Español](#política-de-privacidad-español) | [Português (Brasil)](#política-de-privacidade-português---brasil)
+
+---
+
+## Privacy Policy
+
+**Last Updated: September 16, 2025**
+
+Welcome to Journal & Notes!
+
+This Privacy Policy is intended to explain how we collect, use, store, and protect your personal information when you use our mobile application, Journal & Notes (hereinafter referred to as "the App"). We understand the importance of your privacy and are committed to protecting your personal data.
+
+Please read and understand this Privacy Policy carefully before using the App.
+
+### 1. Information We Collect
+
+To provide core features such as diary logging, synchronization, mood analysis, and location tagging, the App collects the following types of information:
+
+*   **Content You Provide**:
+    *   **Diary Text and Titles**: The content of the diaries you create within the App.
+    *   **Photos and Videos**: Media files you select from your device's photo library and add to your diaries.
+
+*   **Information We Collect Automatically**:
+    *   **Location Information**: With your permission, we collect your device's precise geographic location when you save a diary entry, used for tagging the location in your diary.
+    *   **Sentiment Analysis Data**: We perform local analysis on your diary text to generate a sentiment score. This data is only associated with the corresponding diary entry and is used to provide the Mood Snapshot feature.
+
+*   **Information for Data Synchronization**:
+    *   The App uses Apple's **iCloud (CloudKit)** service to synchronize your diary data (including text, media files, and location information) across your devices. This means your data is stored encrypted in your private iCloud account. As developers, we cannot access, view, or share this content.
+
+### 2. How We Use Your Information
+
+We use your information solely for the following purposes:
+
+*   **Providing Core Features**: To create, edit, view, and manage your diaries.
+*   **Data Synchronization**: To seamlessly sync your diary data across multiple Apple devices you own via iCloud.
+*   **Feature Enhancement**: To provide special features like location tagging and mood analysis.
+*   **App Maintenance**: We may review anonymous, aggregated diagnostic data (such as app crash reports) to improve the stability and performance of the App.
+
+### 3. Data Storage and Security
+
+*   **Local Storage**: Your diary data is first securely stored in the Core Data database on your local device.
+*   **Cloud Storage**: For synchronization, your data is stored with end-to-end encryption in your private iCloud (CloudKit) account. Only you can access this data through your trusted devices. We cannot decrypt or access any of your personal diary content.
+*   **Data Security**: We are committed to protecting your data. By leveraging Apple's Core Data and CloudKit frameworks, we adopt industry-standard security measures to prevent data loss, misuse, unauthorized access, or disclosure.
+
+### 4. Your Rights
+
+Since your data is stored locally on your device and in your private iCloud account, you have full control:
+
+*   **Access and Modification**: You can view, edit, or delete your diaries within the App at any time.
+*   **Stop Location Collection**: You can turn off the location services permission for the App at any time through your device's system settings.
+*   **Data Deletion**: When you delete the App, the data stored locally on your device will be removed. For data stored in iCloud, you can manage and delete it through your iCloud storage settings.
+
+### 5. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. When significant changes occur, we will notify you within the App or inform you in the update notes on the App Store. We recommend that you review this policy periodically to stay informed.
+
+### 6. Contact Us
+
+If you have any questions, comments, or suggestions about this Privacy Policy, please contact us through the following means:
+
+*   **Developer**: jiahao li
+*   **Email**: gscassli@foxmail.com
+
+---
+
+## 隐私政策 (简体中文)
 
 **最后更新日期: 2025年9月16日**
 
@@ -56,3 +121,186 @@
 
 *   **开发者**: jiahao li
 *   **邮箱**: gscassli@foxmail.com
+
+---
+
+## プライバシーポリシー (日本語)
+
+**最終更新日: 2025年9月16日**
+
+Journal & Notesへようこそ！
+
+本プライバシーポリシーは、お客様が当社のモバイルアプリケーション「Journal & Notes」（以下「本アプリ」）をご利用になる際に、当社がお客様の個人情報をどのように収集、使用、保管、保護するかについて説明するものです。当社はお客様のプライバシーの重要性を深く認識し、お客様の個人データの安全を確保するために全力を尽くします。
+
+本アプリをご利用になる前に、本プライバシーポリシーをよくお読みになり、ご理解ください。
+
+### 1. 収集する情報
+
+日記の記録、同期、気分分析、位置情報タギングなどの主要な機能を提供するため、本アプリは以下の種類の情報を収集します。
+
+*   **お客様が提供するコンテンツ**:
+    *   **日記のテキストとタイトル**: お客様がアプリ内で作成した日記の内容。
+    *   **写真とビデオ**: お客様がデバイスのフォトライブラリから選択し、日記に追加したメディアファイル。
+
+*   **自動的に収集する情報**:
+    *   **位置情報**: お客様の許可を得た上で、日記を保存する際にデバイスの正確な地理的位置情報を収集し、日記の場所をタグ付けするために使用します。
+    *   **感情分析データ**: お客様の日記テキストをローカルで分析し、感情スコアを生成します。このデータは対応する日記にのみ関連付けられ、「気分スナップショット」機能を提供するために使用されます。
+
+*   **データ同期のための情報**:
+    *   本アプリは、Appleが提供する **iCloud (CloudKit)** サービスを利用して、お客様の日記データ（テキスト、メディアファイル、位置情報を含む）をデバイス間で同期します。これは、お客様のデータがお客様個人のiCloudアカウントに暗号化されて保存されることを意味します。開発者である当社がこれらのコンテンツにアクセス、閲覧、共有することはありません。
+
+### 2. 情報の利用方法
+
+当社は、お客様の情報を以下の目的のためにのみ利用します。
+
+*   **主要な機能の提供**: お客様の日记の作成、編集、閲覧、管理。
+*   **データ同期**: iCloudを通じて、お客様が所有する複数のAppleデバイス間で日記データをシームレスに同期。
+*   **機能強化**: 位置情報タギングや気分分析などの特別機能の提供。
+*   **アプリのメンテナンス**: アプリの安定性とパフォーマンスを向上させるため、匿名の集計された診断データ（アプリのクラッシュレポートなど）を確認することがあります。
+
+### 3. データの保管とセキュリティ
+
+*   **ローカルストレージ**: お客様の日記データは、まずデバイスのローカルにあるCore Dataデータベースに安全に保存されます。
+*   **クラウドストレージ**: 同期のため、お客様のデータはエンドツーエンドで暗号化され、お客様個人のiCloud (CloudKit) アカウントに保存されます。信頼できるデバイスを通じて、お客様ご自身のみがこのデータにアクセスできます。当社がお客様の個人的な日記内容を復号化したり、アクセスしたりすることはできません。
+*   **データセキュリティ**: 当社はお客様のデータの保護に努めています。AppleのCore DataおよびCloudKitフレームワークを活用し、データの紛失、誤用、不正アクセス、漏洩を防ぐために業界標準のセキュリティ対策を採用しています。
+
+### 4. お客様の権利
+
+お客様のデータはデバイスのローカルおよびお客様個人のiCloudアカウントに保存されるため、お客様は完全な管理権を持っています。
+
+*   **アクセスと修正**: いつでも本アプリ内で日記を閲覧、編集、削除できます。
+*   **位置情報収集の停止**: いつでもデバイスのシステム設定から、本アプリの位置情報サービスの許可をオフにすることができます。
+*   **データの削除**: アプリを削除すると、デバイスのローカルに保存されているデータは削除されます。iCloudに保存されているデータについては、iCloudストレージの管理設定を通じて削除できます。
+
+### 5. プライバシーポリシーの変更
+
+当社は、本プライバシーポリシーを随時更新することがあります。重要な変更があった場合は、アプリ内での通知またはApp Storeの更新情報でお知らせします。最新のプライバシーポリシーを定期的にご確認いただくことをお勧めします。
+
+### 6. お問い合わせ
+
+本プライバシーポリシーに関するご質問、ご意見、ご提案がございましたら、以下の方法でお問い合わせください。
+
+*   **開発者**: jiahao li
+*   **メール**: gscassli@foxmail.com
+
+---
+
+## Política de Privacidad (Español)
+
+**Última actualización: 16 de septiembre de 2025**
+
+¡Bienvenido a Journal & Notes!
+
+Esta Política de Privacidad tiene como objetivo explicar cómo recopilamos, usamos, almacenamos y protegemos su información personal cuando utiliza nuestra aplicación móvil, Journal & Notes (en adelante, "la App"). Entendemos la importancia de su privacidad y nos comprometemos a proteger sus datos personales.
+
+Por favor, lea y comprenda esta Política de Privacidad detenidamente antes de usar la App.
+
+### 1. Información que Recopilamos
+
+Para proporcionar funciones esenciales como el registro de diarios, la sincronización, el análisis de estado de ánimo y el etiquetado de ubicación, la App recopila los siguientes tipos de información:
+
+*   **Contenido que Usted Proporciona**:
+    *   **Texto y Títulos del Diario**: El contenido de los diarios que crea dentro de la App.
+    *   **Fotos y Videos**: Archivos multimedia que selecciona de la biblioteca de fotos de su dispositivo y añade a sus diarios.
+
+*   **Información que Recopilamos Automáticamente**:
+    *   **Información de Ubicación**: Con su permiso, recopilamos la ubicación geográfica precisa de su dispositivo cuando guarda una entrada de diario, utilizada para etiquetar la ubicación en su diario.
+    *   **Datos de Análisis de Sentimientos**: Realizamos un análisis local de su texto del diario para generar una puntuación de sentimiento. Estos datos solo se asocian con la entrada de diario correspondiente y se utilizan para proporcionar la función de "Instantánea de Ánimo".
+
+*   **Información para la Sincronización de Datos**:
+    *   La App utiliza el servicio **iCloud (CloudKit)** de Apple para sincronizar los datos de su diario (incluyendo texto, archivos multimedia e información de ubicación) entre sus dispositivos. Esto significa que sus datos se almacenan cifrados en su cuenta privada de iCloud. Como desarrolladores, no podemos acceder, ver ni compartir este contenido.
+
+### 2. Cómo Usamos Su Información
+
+Utilizamos su información únicamente para los siguientes propósitos:
+
+*   **Proporcionar Funciones Esenciales**: Para crear, editar, ver y gestionar sus diarios.
+*   **Sincronización de Datos**: Para sincronizar sin problemas los datos de su diario entre múltiples dispositivos Apple que posea a través de iCloud.
+*   **Mejora de Funciones**: Para proporcionar funciones especiales como el etiquetado de ubicación y el análisis de estado de ánimo.
+*   **Mantenimiento de la App**: Podemos revisar datos de diagnóstico anónimos y agregados (como informes de fallos de la app) para mejorar la estabilidad y el rendimiento de la App.
+
+### 3. Almacenamiento y Seguridad de los Datos
+
+*   **Almacenamiento Local**: Sus datos del diario se almacenan primero de forma segura en la base de datos Core Data en su dispositivo local.
+*   **Almacenamiento en la Nube**: Para la sincronización, sus datos se almacenan con cifrado de extremo a extremo en su cuenta privada de iCloud (CloudKit). Solo usted puede acceder a estos datos a través de sus dispositivos de confianza. No podemos descifrar ni acceder a ninguno de los contenidos de su diario personal.
+*   **Seguridad de los Datos**: Nos comprometemos a proteger sus datos. Al aprovechar los marcos Core Data y CloudKit de Apple, adoptamos medidas de seguridad estándar de la industria para prevenir la pérdida, el uso indebido, el acceso no autorizado o la divulgación de datos.
+
+### 4. Sus Derechos
+
+Dado que sus datos se almacenan localmente en su dispositivo y en su cuenta privada de iCloud, usted tiene el control total:
+
+*   **Acceso y Modificación**: Puede ver, editar o eliminar sus diarios dentro de la App en cualquier momento.
+*   **Detener la Recopilación de Ubicación**: Puede desactivar el permiso de servicios de ubicación para la App en cualquier momento a través de la configuración del sistema de su dispositivo.
+*   **Eliminación de Datos**: Cuando elimina la App, los datos almacenados localmente en su dispositivo serán eliminados. Para los datos almacenados en iCloud, puede gestionarlos y eliminarlos a través de la configuración de su almacenamiento de iCloud.
+
+### 5. Cambios a Esta Política de Privacidad
+
+Podemos actualizar esta Política de Privacidad de vez en cuando. Cuando ocurran cambios significativos, se lo notificaremos dentro de la App o en las notas de actualización en la App Store. Le recomendamos que revise esta política periódicamente para mantenerse informado.
+
+### 6. Contáctenos
+
+Si tiene alguna pregunta, comentario o sugerencia sobre esta Política de Privacidad, por favor contáctenos a través de los siguientes medios:
+
+*   **Desarrollador**: jiahao li
+*   **Correo Electrónico**: gscassli@foxmail.com
+
+---
+
+## Política de Privacidade (Português - Brasil)
+
+**Última atualização: 16 de setembro de 2025**
+
+Bem-vindo ao Journal & Notes!
+
+Esta Política de Privacidade destina-se a explicar como coletamos, usamos, armazenamos e protegemos suas informações pessoais quando você usa nosso aplicativo móvel, Journal & Notes (doravante referido como "o App"). Entendemos a importância da sua privacidade e estamos comprometidos em proteger seus dados pessoais.
+
+Por favor, leia e entenda esta Política de Privacidade cuidadosamente antes de usar o App.
+
+### 1. Informações que Coletamos
+
+Para fornecer recursos essenciais como registro de diário, sincronização, análise de humor e marcação de localização, o App coleta os seguintes tipos de informação:
+
+*   **Conteúdo que Você Fornece**:
+    *   **Texto e Títulos do Diário**: O conteúdo dos diários que você cria no App.
+    *   **Fotos e Vídeos**: Arquivos de mídia que você seleciona da biblioteca de fotos do seu dispositivo e adiciona aos seus diários.
+
+*   **Informações que Coletamos Automaticamente**:
+    *   **Informações de Localização**: Com sua permissão, coletamos a localização geográfica precisa do seu dispositivo quando você salva uma entrada de diário, usada para marcar o local em seu diário.
+    *   **Dados de Análise de Sentimento**: Realizamos uma análise local do texto do seu diário para gerar uma pontuação de sentimento. Estes dados são associados apenas à entrada de diário correspondente e são usados para fornecer o recurso "Retrato de Humor".
+
+*   **Informações para Sincronização de Dados**:
+    *   O App usa o serviço **iCloud (CloudKit)** da Apple para sincronizar os dados do seu diário (incluindo texto, arquivos de mídia e informações de localização) entre seus dispositivos. Isso significa que seus dados são armazenados de forma criptografada em sua conta privada do iCloud. Como desenvolvedores, não podemos acessar, visualizar ou compartilhar esse conteúdo.
+
+### 2. Como Usamos Suas Informações
+
+Usamos suas informações exclusivamente para os seguintes propósitos:
+
+*   **Fornecer Recursos Essenciais**: Para criar, editar, visualizar e gerenciar seus diários.
+*   **Sincronização de Dados**: Para sincronizar perfeitamente os dados do seu diário entre múltiplos dispositivos Apple que você possui via iCloud.
+*   **Aprimoramento de Recursos**: Para fornecer recursos especiais como marcação de localização e análise de humor.
+*   **Manutenção do App**: Podemos revisar dados de diagnóstico anônimos e agregados (como relatórios de falha do app) para melhorar a estabilidade e o desempenho do App.
+
+### 3. Armazenamento e Segurança dos Dados
+
+*   **Armazenamento Local**: Seus dados do diário são primeiramente armazenados de forma segura no banco de dados Core Data em seu dispositivo local.
+*   **Armazenamento na Nuvem**: Para sincronização, seus dados são armazenados com criptografia de ponta a ponta em sua conta privada do iCloud (CloudKit). Apenas você pode acessar esses dados através de seus dispositivos confiáveis. Não podemos descriptografar ou acessar nenhum conteúdo do seu diário pessoal.
+*   **Segurança dos Dados**: Estamos comprometidos em proteger seus dados. Ao utilizar os frameworks Core Data e CloudKit da Apple, adotamos medidas de segurança padrão da indústria para prevenir a perda, uso indevido, acesso não autorizado ou divulgação de dados.
+
+### 4. Seus Direitos
+
+Como seus dados são armazenados localmente no seu dispositivo e em sua conta privada do iCloud, você tem controle total:
+
+*   **Acesso e Modificação**: Você pode visualizar, editar ou excluir seus diários dentro do App a qualquer momento.
+*   **Interromper a Coleta de Localização**: Você pode desativar a permissão de serviços de localização para o App a qualquer momento através das configurações do sistema do seu dispositivo.
+*   **Exclusão de Dados**: Ao excluir o App, os dados armazenados localmente em seu dispositivo serão removidos. Para os dados armazenados no iCloud, você pode gerenciá-los e excluí-los através das configurações de armazenamento do seu iCloud.
+
+### 5. Alterações a Esta Política de Privacidade
+
+Podemos atualizar esta Política de Privacidade de tempos em tempos. Quando ocorrerem alterações significativas, notificaremos você dentro do App ou informaremos nas notas de atualização na App Store. Recomendamos que você revise esta política periodicamente para se manter informado.
+
+### 6. Contate-nos
+
+Se você tiver alguma dúvida, comentário ou sugestão sobre esta Política de Privacidade, entre em contato conosco pelos seguintes meios:
+
+*   **Desenvolvedor**: jiahao li
+*   **E-mail**: gscassli@foxmail.com
