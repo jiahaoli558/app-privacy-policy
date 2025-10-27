@@ -1,4 +1,5 @@
-[English](#privacy-policy) | [简体中文](#隐私政策-简体中文) | [日本語](#プライバシーポリシー-日本語) | [Español](#política-de-privacidad-español) | [Português (Brasil)](#política-de-privacidade-português---brasil)
+[English](#privacy-policy) | [简体中文](#隐私政策-简体中文) | [日本語](#プライバシーポリシー-日本語) | [Español](#política-de-privacidad-español) | [Português (Brasil)](#política-de-privacidade-português---brasil) | [Tiếng Việt](#chính-sách-bảo-mật-tiếng-việt)
+
 
 ---
 
@@ -304,3 +305,65 @@ Se você tiver alguma dúvida, comentário ou sugestão sobre esta Política de 
 
 *   **Desenvolvedor**: jiahao li
 *   **E-mail**: gscassli@foxmail.com
+
+---
+
+## Chính sách Bảo mật (Tiếng Việt)
+
+**Cập nhật lần cuối: ngày 16 tháng 9 năm 2025**
+
+Chào mừng bạn đến với Journal & Notes!
+
+Chính sách Bảo mật này nhằm mục đích giải thích cách chúng tôi thu thập, sử dụng, lưu trữ và bảo vệ thông tin cá nhân của bạn khi bạn sử dụng ứng dụng di động của chúng tôi, Journal & Notes (sau đây gọi là "Ứng dụng"). Chúng tôi hiểu rõ tầm quan trọng của quyền riêng tư đối với bạn và cam kết bảo vệ dữ liệu cá nhân của bạn.
+
+Vui lòng đọc và hiểu kỹ Chính sách Bảo mật này trước khi sử dụng Ứng dụng.
+
+### 1. Thông tin Chúng tôi Thu thập
+
+Để cung cấp các tính năng cốt lõi như ghi nhật ký, đồng bộ hóa, phân tích tâm trạng và gắn thẻ vị trí, Ứng dụng sẽ thu thập các loại thông tin sau:
+
+*   **Nội dung do bạn cung cấp**:
+    *   **Văn bản và Tiêu đề Nhật ký**: Nội dung của các bài nhật ký bạn tạo trong Ứng dụng.
+    *   **Ảnh và Video**: Các tệp đa phương tiện bạn chọn từ thư viện ảnh của thiết bị và thêm vào nhật ký của mình.
+
+*   **Thông tin chúng tôi tự động thu thập**:
+    *   **Thông tin Vị trí**: Với sự cho phép của bạn, chúng tôi thu thập vị trí địa lý chính xác của thiết bị khi bạn lưu một bài nhật ký, được sử dụng để gắn thẻ địa điểm trong nhật ký của bạn.
+    *   **Dữ liệu Phân tích Cảm xúc**: Chúng tôi thực hiện phân tích cục bộ trên văn bản nhật ký của bạn để tạo ra một điểm số cảm xúc. Dữ liệu này chỉ được liên kết với bài nhật ký tương ứng và được sử dụng để cung cấp tính năng "Ảnh chụp Tâm trạng".
+
+*   **Thông tin phục vụ Đồng bộ hóa Dữ liệu**:
+    *   Ứng dụng sử dụng dịch vụ **iCloud (CloudKit)** của Apple để đồng bộ hóa dữ liệu nhật ký của bạn (bao gồm văn bản, tệp đa phương tiện và thông tin vị trí) giữa các thiết bị của bạn. Điều này có nghĩa là dữ liệu của bạn được lưu trữ mã hóa trong tài khoản iCloud riêng tư của bạn. Với tư cách là nhà phát triển, chúng tôi không thể truy cập, xem hoặc chia sẻ nội dung này.
+
+### 2. Cách Chúng tôi Sử dụng Thông tin của bạn
+
+Chúng tôi chỉ sử dụng thông tin của bạn cho các mục đích sau:
+
+*   **Cung cấp các Tính năng Cốt lõi**: Để tạo, chỉnh sửa, xem và quản lý nhật ký của bạn.
+*   **Đồng bộ hóa Dữ liệu**: Để đồng bộ hóa liền mạch dữ liệu nhật ký của bạn trên nhiều thiết bị Apple mà bạn sở hữu thông qua iCloud.
+*   **Nâng cao Tính năng**: Để cung cấp các tính năng đặc biệt như gắn thẻ vị trí và phân tích tâm trạng.
+*   **Bảo trì Ứng dụng**: Chúng tôi có thể xem xét dữ liệu chẩn đoán ẩn danh, tổng hợp (chẳng hạn như báo cáo sự cố ứng dụng) để cải thiện sự ổn định và hiệu suất của Ứng dụng.
+
+### 3. Lưu trữ và Bảo mật Dữ liệu
+
+*   **Lưu trữ Cục bộ**: Dữ liệu nhật ký của bạn trước tiên được lưu trữ an toàn trong cơ sở dữ liệu Core Data trên thiết bị cục bộ của bạn.
+*   **Lưu trữ trên Đám mây**: Để đồng bộ hóa, dữ liệu của bạn được lưu trữ với mã hóa đầu cuối trong tài khoản iCloud (CloudKit) riêng tư của bạn. Chỉ bạn mới có thể truy cập dữ liệu này thông qua các thiết-bị đáng tin cậy của mình. Chúng tôi không thể giải mã hoặc truy cập bất kỳ nội dung nhật ký cá nhân nào của bạn.
+*   **Bảo mật Dữ liệu**: Chúng tôi cam kết bảo vệ dữ liệu của bạn. Bằng cách tận dụng các framework Core Data và CloudKit của Apple, chúng tôi áp dụng các biện pháp bảo mật tiêu chuẩn ngành để ngăn chặn mất mát, lạm dụng, truy cập trái phép hoặc tiết lộ dữ liệu.
+
+### 4. Quyền của bạn
+
+Vì dữ liệu của bạn được lưu trữ cục bộ trên thiết bị và trong tài khoản iCloud riêng tư, bạn có toàn quyền kiểm soát:
+
+*   **Truy cập và Sửa đổi**: Bạn có thể xem, chỉnh sửa hoặc xóa nhật ký của mình trong Ứng dụng bất kỳ lúc nào.
+*   **Ngừng Thu thập Vị trí**: Bạn có thể tắt quyền truy cập dịch vụ định vị cho Ứng dụng bất kỳ lúc nào thông qua cài đặt hệ thống của thiết bị.
+*   **Xóa Dữ liệu**: Khi bạn xóa Ứng dụng, dữ liệu được lưu trữ cục bộ trên thiết bị của bạn sẽ bị xóa. Đối với dữ liệu được lưu trữ trên iCloud, bạn có thể quản lý và xóa nó thông qua cài đặt dung lượng lưu trữ iCloud của mình.
+
+### 5. Thay đổi đối với Chính sách Bảo mật này
+
+Chúng tôi có thể cập nhật Chính sách Bảo mật này theo thời gian. Khi có những thay đổi quan trọng, chúng tôi sẽ thông báo cho bạn trong Ứng dụng hoặc thông báo trong ghi chú cập nhật trên App Store. Chúng tôi khuyên bạn nên xem lại chính sách này định kỳ để được cập nhật.
+
+### 6. Liên hệ với Chúng tôi
+
+Nếu bạn có bất kỳ câu hỏi, nhận xét hoặc đề xuất nào về Chính sách Bảo mật này, vui lòng liên hệ với chúng tôi qua các phương thức sau:
+
+*   **Nhà phát triển**: jiahao li
+*   **Email**: gscassli@foxmail.com
+
