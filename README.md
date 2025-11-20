@@ -1,4 +1,4 @@
-[English](#privacy-policy) | [简体中文](#隐私政策-简体中文) | [繁體中文](#隱私權政策-繁體中文) | [日本語](#プライバシーポリシー-日本語) | [Español](#política-de-privacidad-español) | [Português (Brasil)](#política-de-privacidade-português---brasil) | [Tiếng Việt](#chính-sách-bảo-mật-tiếng-việt)
+[English](#privacy-policy) | [简体中文](#隐私政策-简体中文) | [繁體中文](#隱私權政策-繁體中文) | [日本語](#プライバシーポリシー-日本語) | [Español](#política-de-privacidad-español) | [Português (Brasil)](#política-de-privacidade-português---brasil) | [Tiếng Việt](#chính-sách-bảo-mật-tiếng-việt) | [한국어](#개인정보-처리방침-한국어) | [Italiano](#informativa-sulla-privacy-italiano) | [Deutsch](#datenschutzerklärung-deutsch)
 
 
 ---
@@ -428,3 +428,185 @@ Nếu bạn có bất kỳ câu hỏi, nhận xét hoặc đề xuất nào về
 *   **Nhà phát triển**: jiahao li
 *   **Email**: gscassli@foxmail.com
 
+---
+
+## 개인정보 처리방침 (한국어)
+
+**최종 업데이트: 2025년 9월 16일**
+
+Journal & Notes에 오신 것을 환영합니다!
+
+본 개인정보 처리방침은 귀하가 당사의 모바일 애플리케이션 Journal & Notes(이하 “본 앱”)을 사용할 때 당사가 귀하의 개인정보를 어떻게 수집·이용·보관·보호하는지 설명하기 위한 것입니다. 당사는 귀하의 프라이버시가 매우 중요하다는 점을 깊이 인식하고 있으며, 귀하의 개인정보를 안전하게 보호하기 위해 최선을 다하고 있습니다.
+
+본 앱을 사용하기 전에 본 개인정보 처리방침을 주의 깊게 읽고 이해해 주십시오.
+
+### 1. 수집하는 정보
+
+일기 기록, 동기화, 기분 분석, 위치 태깅 등 핵심 기능을 제공하기 위해 본 앱은 다음과 같은 유형의 정보를 수집합니다.
+
+*   **귀하가 직접 제공하는 콘텐츠**
+    *   **일기 텍스트 및 제목**: 앱 내에서 작성한 일기 내용
+    *   **사진 및 동영상**: 기기의 사진 보관함에서 선택하여 일기에 추가한 미디어 파일
+
+*   **자동으로 수집되는 정보**
+    *   **위치 정보**: 귀하의 허가를 받은 경우, 일기를 저장할 때 기기의 정확한 지리적 위치를 수집하여 일기에 위치 태그를 붙입니다.
+    *   **감정 분석 데이터**: 일기 텍스트를 기기 내에서 로컬로 분석하여 감정 점수를 생성합니다. 이 데이터는 해당 일기 항목에만 연결되며, “기분 스냅샷” 기능을 제공하는 데 사용됩니다.
+
+*   **데이터 동기화를 위한 정보**
+    *   본 앱은 Apple의 **iCloud (CloudKit)** 서비스를 사용하여 귀하의 일기 데이터(텍스트, 미디어 파일, 위치 정보 포함)를 귀하가 보유한 여러 기기 간에 동기화합니다. 이는 귀하의 데이터가 귀하만의 개인 iCloud 계정에 암호화되어 저장됨을 의미합니다. 개발자인 당사는 이 콘텐츠를 접근·열람·공유할 수 없습니다.
+
+### 2. 정보 이용 목적
+
+당사는 귀하의 정보를 다음 목적으로만 사용합니다.
+
+*   **핵심 기능 제공**: 일기 생성·편집·조회·관리
+*   **데이터 동기화**: iCloud를 통해 귀하가 소유한 여러 Apple 기기 간에 일기 데이터를 원활하게 동기화
+*   **기능 향상**: 위치 태깅, 기분 분석 등 특화 기능 제공
+*   **앱 유지보수**: 앱의 안정성과 성능 개선을 위해 익명화·집계된 진단 데이터(예: 크래시 리포트)를 검토할 수 있습니다.
+
+### 3. 데이터 저장 및 보안
+
+*   **로컬 저장**: 일기 데이터는 먼저 기기의 Core Data 데이터베이스에 안전하게 저장됩니다.
+*   **클라우드 저장**: 동기화를 위해 데이터는 종단간 암호화되어 귀하만의 개인 iCloud (CloudKit) 계정에 저장됩니다. 귀하만 신뢰할 수 있는 기기를 통해 이 데이터에 접근할 수 있으며, 당사는 귀하의 개인 일기 내용을 복호화하거나 접근할 수 없습니다.
+*   **데이터 보안**: Apple의 Core Data 및 CloudKit 프레임워크를 활용하여 데이터 손실·오용·무단 접근·유출을 방지하는 산업 표준 보안 조치를 적용하고 있습니다.
+
+### 4. 귀하의 권리
+
+데이터가 기기 로컬과 귀하만의 iCloud 계정에 저장되므로 귀하는 완전한 통제권을 가집니다.
+
+*   **접근 및 수정**: 언제든지 앱 내에서 일기를 조회·편집·삭제할 수 있습니다.
+*   **위치 수집 중단**: 기기 시스템 설정에서 언제든지 본 앱의 위치 서비스 권한을 해제할 수 있습니다.
+*   **데이터 삭제**: 앱을 삭제하면 기기 로컬에 저장된 데이터가 제거됩니다. iCloud에 저장된 데이터는 iCloud 저장공간 설정에서 직접 관리·삭제할 수 있습니다.
+
+### 5. 개인정보 처리방침 변경
+
+중요한 변경이 있을 경우 앱 내 알림 또는 App Store 업데이트 노트로 안내드립니다. 최신 내용을 주기적으로 확인해 주실 것을 권장합니다.
+
+### 6. 문의하기
+
+본 개인정보 처리방침에 대해 궁금한 점, 의견 또는 제안이 있으시면 아래로 연락 주세요.
+
+*   **개발자**: jiahao li
+*   **이메일**: gscassli@foxmail.com
+
+---
+
+## Informativa sulla Privacy (Italiano)
+
+**Ultimo aggiornamento: 16 settembre 2025**
+
+Benvenuto in Journal & Notes!
+
+La presente Informativa sulla Privacy ha lo scopo di illustrare come raccogliamo, utilizziamo, conserviamo e proteggiamo le tue informazioni personali quando utilizzi la nostra applicazione mobile Journal & Notes (di seguito “l’App”). Comprendiamo quanto sia importante la tua privacy e ci impegniamo a proteggere i tuoi dati personali.
+
+Ti invitiamo a leggere attentamente questa Informativa sulla Privacy prima di utilizzare l’App.
+
+### 1. Informazioni che raccogliamo
+
+Per fornire le funzioni principali come registrazione del diario, sincronizzazione, analisi dell’umore e geolocalizzazione, l’App raccoglie i seguenti tipi di informazioni:
+
+*   **Contenuti forniti dall’utente**
+    *   **Testo e titoli del diario**: il contenuto dei diari che crei nell’App.
+    *   **Foto e video**: i file multimediali che selezioni dalla libreria del dispositivo e aggiungi ai tuoi diari.
+
+*   **Informazioni raccolte automaticamente**
+    *   **Informazioni sulla posizione**: con il tuo permesso, raccogliamo la posizione geografica precisa del dispositivo quando salvi una voce del diario, per taggare la posizione nel diario.
+    *   **Dati di analisi del sentimento**: eseguiamo un’analisi locale del testo del diario per generare un punteggio di sentiment. Questi dati sono associati solo alla voce corrispondente e vengono utilizzati per la funzione “Instantanea dell’umore”.
+
+*   **Informazioni per la sincronizzazione dei dati**
+    *   L’App utilizza il servizio **iCloud (CloudKit)** di Apple per sincronizzare i tuoi dati del diario (testo, file multimediali e informazioni sulla posizione) tra i tuoi dispositivi. I dati sono memorizzati con crittografia end-to-end nel tuo account iCloud privato. Come sviluppatori, non possiamo accedere, visualizzare o condividere tali contenuti.
+
+### 2. Come utilizziamo le tue informazioni
+
+Utilizziamo le tue informazioni esclusivamente per i seguenti scopi:
+
+*   Fornire le funzioni principali: creare, modificare, visualizzare e gestire i tuoi diari.
+*   Sincronizzazione dei dati tramite iCloud tra tutti i dispositivi Apple che possiedi.
+*   Miglioramento delle funzioni (tagging della posizione, analisi dell’umore, ecc.).
+*   Manutenzione dell’App: possiamo esaminare dati diagnostici anonimi e aggregati (ad es. report di crash) per migliorare stabilità e prestazioni.
+
+### 3. Archiviazione e sicurezza dei dati
+
+*   **Archiviazione locale**: i dati del diario sono prima salvati in modo sicuro nel database Core Data sul tuo dispositivo.
+*   **Archiviazione cloud**: per la sincronizzazione**: i dati sono salvati con crittografia end-to-end nel tuo account iCloud privato (CloudKit). Solo tu puoi accedervi tramite i tuoi dispositivi fidati. Non possiamo decrittografare né accedere ai tuoi contenuti personali.
+*   **Sicurezza dei dati**: sfruttando i framework Core Data e CloudKit di Apple, adottiamo misure di sicurezza standard del settore per prevenire perdita, uso improprio, accesso non autorizzato o divulgazione dei dati.
+
+### 4. I tuoi diritti
+
+Poiché i tuoi dati sono archiviati localmente sul dispositivo e nel tuo account iCloud privato, hai il pieno controllo:
+
+*   Puoi visualizzare, modificare o eliminare i tuoi diari in qualsiasi momento dall’App.
+*   Puoi revocare in ogni momento l’autorizzazione ai servizi di localizzazione nelle impostazioni del dispositivo.
+*   Eliminando l’App verranno rimossi i dati locali; i dati su iCloud possono essere gestiti ed eliminati dalle impostazioni di iCloud.
+
+### 5. Modifiche alla presente Informativa sulla Privacy
+
+Potremo aggiornare occasionalmente questa Informativa. In caso di modifiche sostanziali, ti informeremo all’interno dell’App o nelle note di aggiornamento dell’App Store. Ti consigliamo di rivederla periodicamente.
+
+### 6. Contattaci
+
+Per domande, commenti o suggerimenti su questa Informativa sulla Privacy, contattaci ai seguenti recapiti:
+
+*   **Sviluppatore**: jiahao li
+*   **Email**: gscassli@foxmail.com
+
+---
+
+## Datenschutzerklärung (Deutsch)
+
+**Letzte Aktualisierung: 16. September 2025**
+
+Willkommen bei Journal & Notes!
+
+Diese Datenschutzerklärung erläutert, wie wir deine personenbezogenen Daten erfassen, verwenden, speichern und schützen, wenn du unsere Mobile-App Journal & Notes (nachfolgend „die App“) nutzt. Wir wissen, wie wichtig dir deine Privatsphäre ist, und verpflichten uns, deine persönlichen Daten zu schützen.
+
+Bitte lies diese Datenschutzerklärung sorgfältig durch, bevor du die App verwendest.
+
+### 1. Welche Daten wir erheben
+
+Um Kernfunktionen wie Tagebuch-Einträge, Synchronisation, Stimmungsanalyse und Standort-Tagging bereitzustellen, erhebt die App folgende Datenarten:
+
+*   **Von dir bereitgestellte Inhalte**
+    *   **Tagebuchtexte und -titel**: Die Inhalte deiner in der App erstellten Tagebücher.
+    *   **Fotos und Videos**: Mediendateien, die du aus deiner Geräte-Mediathek auswählst und zu deinen Einträgen hinzufügst.
+
+*   **Automatisch erfasste Daten**
+    *   **Standortdaten**: Mit deiner Erlaubnis erfassen wir beim Speichern eines Eintrags die genaue geografische Position deines Geräts, um sie dient dem Standort-Tag im Tagebuch.
+    *   **Stimmungsanalyse-Daten**: Wir führen eine lokale Analyse deines Tagebuchtexts durch, um einen Stimmungs-Score zu erzeugen. Diese Daten sind ausschließlich mit dem jeweiligen Eintrag verknüpft und werden für die Funktion „Stimmungs-Snapshot“ verwendet.
+
+*   **Daten zur Synchronisation**
+    *   Die App nutzt Apples **iCloud (CloudKit)**-Dienst, um deine Tagebuchdaten (Text, Medien, Standort) geräteübergreifend zu synchronisieren. Die Daten werden Ende-zu-Ende-verschlüsselt in deinem persönlichen iCloud-Account gespeichert. Wir als Entwickler haben keinerlei Zugriff darauf.
+
+### 2. Verwendungszwecke deiner Daten
+
+Wir verwenden deine Daten ausschließlich, um
+
+*   die Kernfunktionen der App bereitzustellen,
+*   die Synchronisation über iCloud zu ermöglichen,
+*   Zusatzfunktionen wie Standort-Tagging und Stimmungsanalyse anzubieten,
+*   anonymisierte und aggregierte Diagnosedaten (z. B. Crash-Reports) zur Verbesserung von Stabilität und Performance zu prüfen.
+
+### 3. Speicherung und Datensicherheit
+
+*   **Lokale Speicherung**: Deine Daten werden zunächst sicher in der Core-Data-Datenbank deines Geräts gespeichert.
+*   **Cloud-Speicherung**: Für die Synchronisation werden die Daten Ende-zu-Ende-verschlüsselt in deinem privaten iCloud-(CloudKit-)Account abgelegt. Nur du kannst über deine vertrauenswürdigen Geräte darauf zugreifen. Wir können die Daten weder entschlüsseln noch einsehen.
+*   **Datensicherheit**: Durch die Nutzung von Apples Core Data und CloudKit-Frameworks wenden wir branchenübliche Sicherheitsmaßnahmen an, um Datenverlust, Missbrauch, unbefugten Zugriff oder Offenlegung zu verhindern.
+
+### 4. Deine Rechte
+
+Da deine Daten nur lokal auf deinem Gerät und in deinem privaten iCloud-Account gespeichert werden, hast du die volle Kontrolle:
+
+*   Jederzeit Einträge ansehen, bearbeiten oder löschen.
+*   Ortungsdienste für die App in den Systemeinstellungen deaktivieren.
+*   Bei Deinstallation der App werden lokale Daten gelöscht; iCloud-Daten kannst du selbst über die iCloud-Speichereinstellungen verwalten bzw. löschen.
+
+### 5. Änderungen dieser Datenschutzerklärung
+
+Bei wesentlichen Änderungen informieren wir dich innerhalb der App oder in den App-Store-Release-Notes. Wir empfehlen, die Erklärung regelmäßig zu überprüfen.
+
+### 6. Kontakt
+
+Bei Fragen, Anmerkungen oder Vorschlägen zu dieser Datenschutzerklärung kontaktiere uns bitte:
+
+*   **Entwickler**: jiahao li
+*   **E-Mail**: gscassli@foxmail.com
