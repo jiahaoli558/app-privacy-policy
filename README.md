@@ -1,4 +1,4 @@
-[English](#privacy-policy) | [简体中文](#隐私政策-简体中文) | [繁體中文](#隱私權政策-繁體中文) | [日本語](#プライバシーポリシー-日本語) | [Español](#política-de-privacidad-español) | [Português (Brasil)](#política-de-privacidade-português---brasil) | [Tiếng Việt](#chính-sách-bảo-mật-tiếng-việt) | [한국어](#개인정보-처리방침-한국어) | [Italiano](#informativa-sulla-privacy-italiano) | [Deutsch](#datenschutzerklärung-deutsch) | [Dansk](#🇩🇰privatlivspolitik-dansk)
+[English](#privacy-policy) | [简体中文](#隐私政策-简体中文) | [繁體中文](#隱私權政策-繁體中文) | [日本語](#プライバシーポリシー-日本語) | [Español](#política-de-privacidad-español) | [Português (Brasil)](#política-de-privacidade-português---brasil) | [Tiếng Việt](#chính-sách-bảo-mật-tiếng-việt) | [한국어](#개인정보-처리방침-한국어) | [Italiano](#informativa-sulla-privacy-italiano) | [Deutsch](#datenschutzerklärung-deutsch) | [Dansk](#privatlivspolitik-dansk)
 
 
 ---
