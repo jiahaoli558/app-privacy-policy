@@ -613,7 +613,7 @@ Bei Fragen, Anmerkungen oder Vorschlägen zu dieser Datenschutzerklärung kontak
 
 ---
 
-## 🇩🇰 Privatlivspolitik (Dansk)
+## Privatlivspolitik (Dansk)
 
 Velkommen til **Journal & Notes**!
 
