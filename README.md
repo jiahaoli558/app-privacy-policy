@@ -5,11 +5,11 @@
 
 ## Privacy Policy
 
-**Last Updated: September 16, 2025**
+**Last Updated: January 21, 2026**
 
-Welcome to Journal & Notes!
+Welcome to Horizon Diary(formerly known as "Journal & Notes")!
 
-This Privacy Policy is intended to explain how we collect, use, store, and protect your personal information when you use our mobile application, Journal & Notes (hereinafter referred to as "the App"). We understand the importance of your privacy and are committed to protecting your personal data.
+This Privacy Policy is intended to explain how we collect, use, store, and protect your personal information when you use our mobile application, Horizon Diary (hereinafter referred to as "the App"). We understand the importance of your privacy and are committed to protecting your personal data.
 
 Please read and understand this Privacy Policy carefully before using the App.
 
@@ -66,11 +66,11 @@ If you have any questions, comments, or suggestions about this Privacy Policy, p
 
 ## 隐私政策 (简体中文)
 
-**最后更新日期: 2025年9月16日**
+**最后更新日期: 2026年1月21日**
 
-欢迎使用 Journal & Notes！
+欢迎使用 环游旅记（原名 "Journal & Notes"）！
 
-本隐私政策旨在向您说明，当您使用我们的移动应用程序 Journal & Notes（以下简称“本应用”）时，我们如何收集、使用、存储和保护您的个人信息。我们深知隐私对您的重要性，并将尽全力保护您的个人数据安全。
+本隐私政策旨在向您说明，当您使用我们的移动应用程序 环游旅记（以下简称“本应用”）时，我们如何收集、使用、存储和保护您的个人信息。我们深知隐私对您的重要性，并将尽全力保护您的个人数据安全。
 
 请在使用本应用前，仔细阅读并理解本《隐私政策》。
 
@@ -127,11 +127,11 @@ If you have any questions, comments, or suggestions about this Privacy Policy, p
 
 ## 隱私權政策 (繁體中文)
 
-**最後更新日期：2025年9月16日**
+**最後更新日期：2026年1月21日**
 
-歡迎使用 Journal & Notes！
+歡迎使用 Horizon Diary（原名 "Journal & Notes"）！
 
-本隱私權政策旨在向您說明，當您使用我們的行動應用程式 Journal & Notes（以下簡稱「本應用程式」）時，我們如何收集、使用、儲存和保護您的個人資訊。我們深知隱私對您的重要性，並將竭力保護您的個人資料安全。
+本隱私權政策旨在向您說明，當您使用我們的行動應用程式 Horizon Diary（以下簡稱「本應用程式」）時，我們如何收集、使用、儲存和保護您的個人資訊。我們深知隱私對您的重要性，並將竭力保護您的個人資料安全。
 
 請在使用本應用程式前，仔細閱讀並理解本《隱私權政策》。
 
@@ -188,11 +188,11 @@ If you have any questions, comments, or suggestions about this Privacy Policy, p
 
 ## プライバシーポリシー (日本語)
 
-**最終更新日: 2025年9月16日**
+**最終更新日: 2026年1月21日**
 
-Journal & Notesへようこそ！
+Horizon Diaryへようこそ（旧名 "Journal & Notes"）！
 
-本プライバシーポリシーは、お客様が当社のモバイルアプリケーション「Journal & Notes」（以下「本アプリ」）をご利用になる際に、当社がお客様の個人情報をどのように収集、使用、保管、保護するかについて説明するものです。当社はお客様のプライバシーの重要性を深く認識し、お客様の個人データの安全を確保するために全力を尽くします。
+本プライバシーポリシーは、お客様が当社のモバイルアプリケーション「Horizon Diary」（以下「本アプリ」）をご利用になる際に、当社がお客様の個人情報をどのように収集、使用、保管、保護するかについて説明するものです。当社はお客様のプライバシーの重要性を深く認識し、お客様の個人データの安全を確保するために全力を尽くします。
 
 本アプリをご利用になる前に、本プライバシーポリシーをよくお読みになり、ご理解ください。
 
@@ -249,11 +249,11 @@ Journal & Notesへようこそ！
 
 ## Política de Privacidad (Español)
 
-**Última actualización: 16 de septiembre de 2025**
+**Última actualización: 21 de enero de 2026**
 
-¡Bienvenido a Journal & Notes!
+¡Bienvenido a Horizon Diary(anteriormente conocido como "Journal & Notes")!
 
-Esta Política de Privacidad tiene como objetivo explicar cómo recopilamos, usamos, almacenamos y protegemos su información personal cuando utiliza nuestra aplicación móvil, Journal & Notes (en adelante, "la App"). Entendemos la importancia de su privacidad y nos comprometemos a proteger sus datos personales.
+Esta Política de Privacidad tiene como objetivo explicar cómo recopilamos, usamos, almacenamos y protegemos su información personal cuando utiliza nuestra aplicación móvil, Horizon Diary (en adelante, "la App"). Entendemos la importancia de su privacidad y nos comprometemos a proteger sus datos personales.
 
 Por favor, lea y comprenda esta Política de Privacidad detenidamente antes de usar la App.
 
@@ -310,11 +310,11 @@ Si tiene alguna pregunta, comentario o sugerencia sobre esta Política de Privac
 
 ## Política de Privacidade (Português - Brasil)
 
-**Última atualização: 16 de setembro de 2025**
+**Última atualização: 21 de janeiro de 2026**
 
-Bem-vindo ao Journal & Notes!
+Bem-vindo ao Horizon Diary(anteriormente conhecido como "Journal & Notes")!
 
-Esta Política de Privacidade destina-se a explicar como coletamos, usamos, armazenamos e protegemos suas informações pessoais quando você usa nosso aplicativo móvel, Journal & Notes (doravante referido como "o App"). Entendemos a importância da sua privacidade e estamos comprometidos em proteger seus dados pessoais.
+Esta Política de Privacidade destina-se a explicar como coletamos, usamos, armazenamos e protegemos suas informações pessoais quando você usa nosso aplicativo móvel, Horizon Diary (doravante referido como "o App"). Entendemos a importância da sua privacidade e estamos comprometidos em proteger seus dados pessoais.
 
 Por favor, leia e entenda esta Política de Privacidade cuidadosamente antes de usar o App.
 
@@ -371,11 +371,11 @@ Se você tiver alguma dúvida, comentário ou sugestão sobre esta Política de 
 
 ## Chính sách Bảo mật (Tiếng Việt)
 
-**Cập nhật lần cuối: ngày 16 tháng 9 năm 2025**
+**Cập nhật lần cuối: ngày 21 tháng 1 năm 2026**
 
-Chào mừng bạn đến với Journal & Notes!
+Chào mừng bạn đến với Horizon Diary(trước đây là "Journal & Notes")!
 
-Chính sách Bảo mật này nhằm mục đích giải thích cách chúng tôi thu thập, sử dụng, lưu trữ và bảo vệ thông tin cá nhân của bạn khi bạn sử dụng ứng dụng di động của chúng tôi, Journal & Notes (sau đây gọi là "Ứng dụng"). Chúng tôi hiểu rõ tầm quan trọng của quyền riêng tư đối với bạn và cam kết bảo vệ dữ liệu cá nhân của bạn.
+Chính sách Bảo mật này nhằm mục đích giải thích cách chúng tôi thu thập, sử dụng, lưu trữ và bảo vệ thông tin cá nhân của bạn khi bạn sử dụng ứng dụng di động của chúng tôi, Horizon Diary (sau đây gọi là "Ứng dụng"). Chúng tôi hiểu rõ tầm quan trọng của quyền riêng tư đối với bạn và cam kết bảo vệ dữ liệu cá nhân của bạn.
 
 Vui lòng đọc và hiểu kỹ Chính sách Bảo mật này trước khi sử dụng Ứng dụng.
 
@@ -432,11 +432,11 @@ Nếu bạn có bất kỳ câu hỏi, nhận xét hoặc đề xuất nào về
 
 ## 개인정보 처리방침 (한국어)
 
-**최종 업데이트: 2025년 9월 16일**
+**최종 업데이트: 2026년 1월 21일**
 
-Journal & Notes에 오신 것을 환영합니다!
+Horizon Diary에 오신 것을 환영합니다(이전 명칭 "Journal & Notes")!
 
-본 개인정보 처리방침은 귀하가 당사의 모바일 애플리케이션 Journal & Notes(이하 “본 앱”)을 사용할 때 당사가 귀하의 개인정보를 어떻게 수집·이용·보관·보호하는지 설명하기 위한 것입니다. 당사는 귀하의 프라이버시가 매우 중요하다는 점을 깊이 인식하고 있으며, 귀하의 개인정보를 안전하게 보호하기 위해 최선을 다하고 있습니다.
+본 개인정보 처리방침은 귀하가 당사의 모바일 애플리케이션 Horizon Diary(이하 “본 앱”)을 사용할 때 당사가 귀하의 개인정보를 어떻게 수집·이용·보관·보호하는지 설명하기 위한 것입니다. 당사는 귀하의 프라이버시가 매우 중요하다는 점을 깊이 인식하고 있으며, 귀하의 개인정보를 안전하게 보호하기 위해 최선을 다하고 있습니다.
 
 본 앱을 사용하기 전에 본 개인정보 처리방침을 주의 깊게 읽고 이해해 주십시오.
 
@@ -493,11 +493,11 @@ Journal & Notes에 오신 것을 환영합니다!
 
 ## Informativa sulla Privacy (Italiano)
 
-**Ultimo aggiornamento: 16 settembre 2025**
+**Ultimo aggiornamento: 21 gennaio 2026**
 
-Benvenuto in Journal & Notes!
+Benvenuto in Horizon Diary(precedentemente noto come "Journal & Notes")!
 
-La presente Informativa sulla Privacy ha lo scopo di illustrare come raccogliamo, utilizziamo, conserviamo e proteggiamo le tue informazioni personali quando utilizzi la nostra applicazione mobile Journal & Notes (di seguito “l’App”). Comprendiamo quanto sia importante la tua privacy e ci impegniamo a proteggere i tuoi dati personali.
+La presente Informativa sulla Privacy ha lo scopo di illustrare come raccogliamo, utilizziamo, conserviamo e proteggiamo le tue informazioni personali quando utilizzi la nostra applicazione mobile Horizon Diary (di seguito “l’App”). Comprendiamo quanto sia importante la tua privacy e ci impegniamo a proteggere i tuoi dati personali.
 
 Ti invitiamo a leggere attentamente questa Informativa sulla Privacy prima di utilizzare l’App.
 
@@ -554,11 +554,11 @@ Per domande, commenti o suggerimenti su questa Informativa sulla Privacy, contat
 
 ## Datenschutzerklärung (Deutsch)
 
-**Letzte Aktualisierung: 16. September 2025**
+**Zuletzt aktualisiert am: 21. Januar 2026**
 
-Willkommen bei Journal & Notes!
+Willkommen bei Horizon Diary(ehemals bekannt als "Journal & Notes")!
 
-Diese Datenschutzerklärung erläutert, wie wir deine personenbezogenen Daten erfassen, verwenden, speichern und schützen, wenn du unsere Mobile-App Journal & Notes (nachfolgend „die App“) nutzt. Wir wissen, wie wichtig dir deine Privatsphäre ist, und verpflichten uns, deine persönlichen Daten zu schützen.
+Diese Datenschutzerklärung erläutert, wie wir deine personenbezogenen Daten erfassen, verwenden, speichern und schützen, wenn du unsere Mobile-App Horizon Diary (nachfolgend „die App“) nutzt. Wir wissen, wie wichtig dir deine Privatsphäre ist, und verpflichten uns, deine persönlichen Daten zu schützen.
 
 Bitte lies diese Datenschutzerklärung sorgfältig durch, bevor du die App verwendest.
 
@@ -615,7 +615,9 @@ Bei Fragen, Anmerkungen oder Vorschlägen zu dieser Datenschutzerklärung kontak
 
 ## Privatlivspolitik (Dansk)
 
-Velkommen til **Journal & Notes**!
+**Sidst opdateret: 21. januar 2026**
+
+Velkommen til **Horizon Diary**(tidligere kendt som "Journal & Notes")!
 
 Denne privatlivspolitik forklarer, hvordan vi indsamler, bruger, opbevarer og beskytter dine personlige oplysninger, når du bruger vores mobilapplikation. Vi forstår, at dit privatliv er vigtigt, og vi er dedikerede til at beskytte dine personlige data.
 
