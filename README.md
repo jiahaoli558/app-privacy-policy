@@ -127,9 +127,9 @@ If you have any questions, comments, or suggestions about this Privacy Policy, p
 
 ## 隱私權政策 (繁體中文)
 
-**最後更新日期：2026年1月21日**
+**最後更新日期：2026年4月16日**
 
-歡迎使用 Horizon Diary（原名 "Journal & Notes"）！
+歡迎使用 環遊旅記（原名 "Journal & Notes"）！
 
 本隱私權政策旨在向您說明，當您使用我們的行動應用程式 Horizon Diary（以下簡稱「本應用程式」）時，我們如何收集、使用、儲存和保護您的個人資訊。我們深知隱私對您的重要性，並將竭力保護您的個人資料安全。
 
